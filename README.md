@@ -15,6 +15,8 @@ Está optimizada para producción usando Vite como bundler.
 - Git y GitHub para control de versiones
 - Netlify para hosting y despliegue continuo
 
+
+ https://paralivesgames.netlify.app/ 
 ## Instalación
 
 1. Clonar el repositorio
