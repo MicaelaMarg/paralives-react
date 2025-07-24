@@ -1,4 +1,7 @@
-# Paralives React
+# Paralives React <h1 align="center" > <img src="nasa-Photoroom.png" alt="Logo" height="90" style="vertical-align: middle; margin-left: 10px;" />
+  Hello, I'm Micaela Mattiucci
+</h1>
+
 
 Proyecto de frontend desarrollado con React y Vite para la landing page de Paralives Games.
 <p align="center">
