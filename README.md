@@ -1,5 +1,7 @@
-# Paralives React <h1 align="center" > <img src="nasa-Photoroom.png" alt="Logo" height="90" style="vertical-align: middle; margin-left: 10px;" />
-  Hello, I'm Micaela Mattiucci
+<h1 align="center">
+  Paralives React
+  <br />
+  <img src="personaje.png" alt="Logo" height="200" style="vertical-align: middle; margin-top: 10px;" />
 </h1>
 
 
