@@ -39,7 +39,24 @@ Está optimizada para producción usando Vite como bundler.
   <img src="soporte.png" alt="Banner Micaela Mattiucci" style="width:100%;" />
 </p>
 
- 
+ ## 📊 GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MicaelaMarg&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelaMarg&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=MicaelaMarg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
+
 ## Instalación
 
 1. Clonar el repositorio
