@@ -29,7 +29,7 @@ const soporteExtra = [
     icon: "bi bi-whatsapp",
     title: "WhatsApp",
     desc: "Escribinos rápido por chat.",
-    link: "https://wa.me/5491123456789",
+    link: "https://wa.me/",
   },
   {
     icon: "bi bi-geo-alt",
